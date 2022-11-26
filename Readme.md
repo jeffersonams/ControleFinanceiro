@@ -8,5 +8,5 @@ Put - Para alterar um estado
 
 Delete - para deletar algum estado cadastro
 
-Para ser cadastrado é necessario passar o nome e a sigla de cada estado.
+Para ser cadastrado é necessario passar o nome e a sigla de cada estado atraves do Swagger
 
